@@ -1,0 +1,1 @@
+full do.do is a compilation of the three other files, which I broke apart for debugging purposes, then reassembled into this file for the final product so I didn't need a main/make file as I was tinkering with my data sets.
