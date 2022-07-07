@@ -1,6 +1,6 @@
 clear
 
-cd "C:\Users\s94da\Desktop\Data and Do-files for papers and homework\Papers\IO1 Labor demand or supply\"
+cd "C:\path\to\data\files\"
 
 local filelist : dir . files "*.annual US000 U.S. TOTAL.csv"
 
