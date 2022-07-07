@@ -12,7 +12,7 @@ foreach f of local filelist {
 
 	keep industry_code year industry_title oty_annual_avg_emplvl_pct_chg oty_total_annual_wages_pct_chg
 
-	drop if length(industry_code) != 3
+	drop if length(industry_code) != 4
 	
 	destring industry_code, replace
 
